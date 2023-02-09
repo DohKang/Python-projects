@@ -128,7 +128,7 @@ def game_over():
 
 #show remaining time before words hidden
 def ramaining_time(time):
-    text_timer = timer_font.render(f"Time : {time}", True, BLACK)
+    text_timer = timer_font.render(f"Time : {time}", True, WHITE)
     screen.blit(text_timer, (10, 10))
 
 
