@@ -11,9 +11,11 @@ I made this thinking of how freely Isaac moved around the map and attacked the e
 The character can move all 4 sides of the game screen. But, only when character 
 
 is on the brick stage. 
+To try, please move your character all the way to the left and press up arrow key to
+move character to the left brick stage.
 
 The object of this game is to remove all balls on the screen within a limited time. 
 
 The character also comes with lives so that a user can easily beat the game. 
 
-Use arrow key to move around and space key to shoot weapons. 
+Use arrow keys to move around and space key to shoot weapons. 
