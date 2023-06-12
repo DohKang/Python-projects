@@ -1,21 +1,25 @@
-This game is inspired by Buster Bros Air Force and The Binding of Isaac. 
 
-The old_shooting_game file is like Buster Bros. A 
+# Techonologies Used
+### Python
 
-character moves at the bottom of stage only, and balls bounce, too. 
+# Description/Goal
+- Create a game that has a life and take damage when hit by enemy
+- Create a character that is freely moving around the screen
 
-The new_shooting_game file is more like The Binding of Isaac. 
+ # Objective
+ 
+- Understand basic code flow to execute a game.
+- Utilize pygame library to create a game
+- Use img file to visualize game
+- Develop a logic for game play.
+- Debug a program.
+ 
+# Setup/Installation Requirements
+- Git clone repository link
+- run python to enjoy the game
 
-I made this thinking of how freely Isaac moved around the map and attacked the enemy. 
+# How to win
+- Use arrow keys to move around and space key to shoot weapons. 
+- shoot all balls on the screen within limited time
 
-The character can move all 4 sides of the game screen. But, only when character 
 
-is on the brick stage. 
-To try, please move your character all the way to the left and press up arrow key to
-move character to the left brick stage.
-
-The object of this game is to remove all balls on the screen within a limited time. 
-
-The character also comes with lives so that a user can easily beat the game. 
-
-Use arrow keys to move around and space key to shoot weapons. 
