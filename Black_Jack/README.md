@@ -11,10 +11,10 @@
  
  # Objective
 
- 1. Use OOP and python basic library to create a blackjack game.
- 2. Understand basic code flow to execute a game.
- 3. Develop a logic for game play.
- 4. Debug a program.
+- Use OOP and python basic library to create a blackjack game.
+- Understand basic code flow to execute a game.
+- Develop a logic for game play.
+- Debug a program.
  
 # Setup/Installation Requirements
 - Git clone repository link
