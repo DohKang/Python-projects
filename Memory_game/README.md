@@ -1,17 +1,29 @@
+ # Techonologies Used
+### Python
+
+# Description/Goal
+
+
+- Create one of the most popular card game in the world, BlackJack.
+- This is my very first game I coded in my life. All you need to do is playing through command prompt or terminal.
+
+
  
+ # Objective
 
-This is a memory game. 
+- Use pygame to create a memory game
+- Understand basic code flow to execute a game.
+- Develop a logic for game play.
+- Debug a program.
+ 
+# Setup/Installation Requirements
+- Git clone repository link
+- run python to enjoy Memory Game
 
-Here is a rule. 
+# Rules 
+- Click the start button, memorize numbers in ascending order.  
+- Numbers will be hidden after time limit hits 0. 
+- Click the lowest number holding circle to the highest in order. 
+- The time limit varies by level. 
+- Higher level will require more memorization to beat the level  
 
-Once you click the start button on the screen, please memorize numbers in ascending order.  
-
-There is a time limit until numbers are going to be hidden. 
-
-The time limit varies by level. 
-
-As the level goes up time limit will be tighter and there will be more number to memorize. 
-
-Once numbers get hidden, the number sign will disappear.  
-
-Click the lowest number holding circle to the highest in order. 
